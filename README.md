@@ -17,13 +17,21 @@ Modulo principal: [Principal module]
 		*[Choose one by one depending on the category of the product, and then, it is add to the buying list]*
 	-Filtrar productos por categoria. [Product's category filter]
 
+
 Mudulo secundario: [Secundary module]
 
 	-Ver/Editar carrito. [Go to/Edit buying list]
 	-Pagar/Limpiar carrito. [Buy/clean buying list]
+
 
 Patrones de diseño implementados: [design-patterns implemented]
 
 	-Facade
 	-Factory
 	-Singleton
+
+
+Tecnologias usadas: [Used technologies]
+	-ASP.NET CORE.
+	-Azure SQL Database.
+	-MVC - {Architecture-pattern}
