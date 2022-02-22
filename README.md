@@ -32,6 +32,7 @@ Patrones de diseño implementados: [design-patterns implemented]
 
 
 Tecnologias usadas: [Used technologies]
+
 	-ASP.NET CORE.
 	-Azure SQL Database.
 	-MVC - {Architecture-pattern}
