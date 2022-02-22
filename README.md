@@ -21,3 +21,9 @@ Mudulo secundario: [Secundary module]
 
 	-Ver/Editar carrito. [Go to/Edit buying list]
 	-Pagar/Limpiar carrito. [Buy/clean buying list]
+
+Patrones de diseño implementados: [design-patterns implemented]
+
+	-Facade
+	-Factory
+	-Singleton
