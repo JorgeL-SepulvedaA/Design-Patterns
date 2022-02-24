@@ -2,10 +2,16 @@
 
 namespace LogicLayer
 {
-    public class ProductsModel
+    public class ProductsModel : DataAbstraction
     {
         public string Category { get; set; }
-        public string Product_Name { get; set; }
-        public double Product_Price { get; set; }
+        public double Price { get; set; }
+
+        //public ProductsModel(string category, string product_Name, double product_Price)
+        //{
+        //    Category = category;
+        //    Product_Name = product_Name;
+        //    Product_Price = product_Price;
+        //}
     }
 }
